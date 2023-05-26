@@ -23,35 +23,35 @@ Follow these steps to set up MusicMind locally:
 
 1. Clone the repository:
 
-/```bash
+```bash
 git clone https://github.com/BankkRoll/musicmind.git
-/```
+```
 
 2. Install the dependencies:
 
-/```bash
+```bash
 cd musicmind
 npm install
-/```
+```
 
 3. Configure the environment variables:
 
 Create a `.env` file in the root directory and specify the necessary environment variables. For example:
 
-/```plaintext
+```plaintext
 # https://clerk.com/
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=xxxxxxxxx
 CLERK_SECRET_KEY=xxxxxxxxx
 
 # https://www.resemble.ai/api/
 RESEMBLE_API_TOKEN=xxxxxxxxxx
-/```
+```
 
 4. Start the development server:
 
-/```bash
+```bash
 npm run dev
-/```
+```
 
 The application will start running on `http://localhost:3000`.
 
@@ -61,12 +61,12 @@ We welcome contributions to MusicMind! If you'd like to contribute, please follo
 
 1. Fork the repository and create your branch:
 
-/```bash
+```bash
 git checkout -b my-feature
-/```
+```
 
 2. Make your changes and commit them:
 
-/```bash
+```bash
 git commit -m "Add new feature"
-/```
+```

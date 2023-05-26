@@ -4,14 +4,25 @@ MusicMind is an innovative music application that utilizes AI technology to gene
 
 
 ## In Progress
+ MusicMind is currently in the process of development and building out the platform.
 
-- MusicMind is currently in the process of development and building out the platform.
+- [x] Implement Resemble AI
+- [x] Implement User Auth
+- [ ] Implement User Payment For Token Usage ( ex. stripe )
+- [ ] Complete UI/UX Design. Intuitive, User-Friendly Interface. Resemble/Ideas From Spotify/Youtube But Own Distint Layouts
+- [ ] Implementing DB to store songs
+- [ ] Implementing a feedback system for users to rate and review songs 
+- [ ] Implementing a system for users to create and share their custom AI models for music generation
+
+## Want to Contribute?
+We'd love for you to join us in shaping the future of AI in music. If you're interested in contributing to MusicMind, please visit our [Contributing Guidelines](/README.md#contributing).
 ![screencapture-localhost-3000-2023-05-26-19_46_00](https://github.com/BankkRoll/musicmind/assets/106103625/e9fd2dd4-4e2b-4713-9d8a-93cfaa707d4a)
 
-## Expected Features
+## Expected Future Features
 
 - Generate AI-powered songs based on user input and preferences.
 - Customize the style, emotion, and other parameters of the generated songs.
+- Allow users to create and share their custom AI models for music generation
 - Collaborate with other users to create collaborative AI-generated songs.
 - Explore a vast library of AI-generated songs and playlists.
 - Discover new and emerging artists through AI-curated recommendations.

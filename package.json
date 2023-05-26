@@ -11,13 +11,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^4.17.0",
     "@clerk/nextjs": "^4.18.5",
-    "@clerk/themes": "^1.7.4",
     "@resemble/node": "^2.0.3",
-    "@types/node": "20.2.5",
     "@types/react": "18.2.7",
-    "@types/react-dom": "18.2.4",
     "animate.css": "^4.1.1",
     "axios": "^1.4.0",
     "eslint": "8.41.0",

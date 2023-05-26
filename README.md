@@ -6,6 +6,7 @@ MusicMind is an innovative music application that utilizes AI technology to gene
 ## In Progress
 
 - MusicMind is currently in the process of development and building out the platform.
+![screencapture-localhost-3000-2023-05-26-19_46_00](https://github.com/BankkRoll/musicmind/assets/106103625/e9fd2dd4-4e2b-4713-9d8a-93cfaa707d4a)
 
 ## Expected Features
 

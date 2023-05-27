@@ -17,7 +17,6 @@ MusicMind is an innovative music application that utilizes AI technology to gene
 
 ## Want to Contribute?
 We'd love for you to join us in shaping the future of AI in music. If you're interested in contributing to MusicMind, please visit our [Contributing Guidelines](/README.md#contributing).
-![screencapture-localhost-3000-2023-05-26-19_46_00](https://github.com/BankkRoll/musicmind/assets/106103625/e9fd2dd4-4e2b-4713-9d8a-93cfaa707d4a)
 
 ## Expected Future Features
 

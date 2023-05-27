@@ -2,15 +2,16 @@
 
 MusicMind is an innovative music application that utilizes AI technology to generate unique and creative songs. Whether you're a musician looking for inspiration or simply enjoy discovering new music, MusicMind provides an exciting platform to explore AI-generated songs tailored to your preferences.
 
-
 ## In Progress
  MusicMind is currently in the process of development and building out the platform.
+- [Example Site Here](https://musicmind.vercel.app/)
 
 - [x] Implement Resemble AI
 - [x] Implement User Auth
+- [ ] Move All APIs To Routes 
 - [ ] Implement User Payment For Token Usage ( ex. stripe )
 - [ ] Complete UI/UX Design. Intuitive, User-Friendly Interface. Resemble/Ideas From Spotify/Youtube But Own Distint Layouts
-- [ ] Implementing DB to store songs
+- [ ] Implementing DB to store songs ( this will replace the current testing apis )
 - [ ] Implementing a feedback system for users to rate and review songs 
 - [ ] Implementing a system for users to create and share their custom AI models for music generation
 

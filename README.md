@@ -15,8 +15,7 @@ MusicMind is an innovative music application that utilizes AI technology to gene
 - [ ] Implementing a feedback system for users to rate and review songs 
 - [ ] Implementing a system for users to create and share their custom AI models for music generation
 
-## Want to Contribute?
-We'd love for you to join us in shaping the future of AI in music. If you're interested in contributing to MusicMind, please visit our [Contributing Guidelines](/README.md#contributing).
+If you're interested in contributing to MusicMind, please visit our [Contributing Guidelines](/README.md#contributing).
 
 ## Expected Future Features
 
@@ -80,3 +79,7 @@ git checkout -b my-feature
 ```bash
 git commit -m "Add new feature"
 ```
+
+## License
+
+Repo-to-PDF is open source software, licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
